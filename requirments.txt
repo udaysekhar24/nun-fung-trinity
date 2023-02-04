@@ -1,0 +1,8 @@
+botocore
+boto3
+bs4
+pyrecord
+dotenv
+fsspec
+s3fs
+pandas
